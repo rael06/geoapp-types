@@ -1,0 +1,20 @@
+{
+  "name": "@rael06/geoapp-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rael06/geoapp-types.git"
+  },
+  "author": "rael06",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rael06/geoapp-types/issues"
+  },
+  "homepage": "https://github.com/rael06/geoapp-types#readme"
+}
