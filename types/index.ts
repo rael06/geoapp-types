@@ -21,6 +21,7 @@ export type Geometry = {
 
 export type Properties = {
   label: string;
+  labelJoinedByPlus: string;
   score: number;
   id: string;
   name: string;
